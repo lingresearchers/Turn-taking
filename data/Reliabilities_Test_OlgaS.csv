@@ -1,0 +1,1002 @@
+﻿Classification 1,Classification 2,Transcription
+backchannel,backchannel,Да.
+description,description,"У тебя сегодня прямо принцессный завтрак, да."
+description,description,Апельсины.
+question,question,"Ананасы, видишь?  "
+question,question,"Видишь, как вкусно? "
+imperative,imperative,"Сейчас, подожди.  "
+description,description,Бабушка сейчас еще пенку дольет. 
+backchannel,backchannel,Да.
+description,description,"Ну вот, я же тебе говорила, а ты бабушке не верила. "
+backchannel,backchannel,"Да, да."
+scaffolding,scaffolding,Вот так. 
+praise,praise,Вот молодец.
+question,question,Ну еще?
+imperative,imperative,И еще маленько. 
+exclamation,description,Последняя!
+praise,praise,"Вот, молодец, пятёрочница. "
+backchannel,backchannel,Да.
+imperative,imperative,"Да, давай ещё маленько. "
+imperative,imperative,Ну давай! 
+praise,praise,Вот молодец какая. 
+imperative,imperative,И еще маленько. 
+description,description,"Да, это, это изюм. "
+imperative,imperative,Давай ещё маленько. 
+praise,praise,"Ох ты, молодчина, молодчинка! "
+imitation,imitation,Кы! 
+description,semantic expansion,"Да, это изюм называется."
+praise,praise,Вот молодец. 
+exclamation,exclamation,Ой-ой. 
+scaffolding,description,"Щас-щас-щас, бабушка... "
+description,description,"Пять минут, щас, ну это же важнее."
+description,description,"Ну все, больше не хочет. "
+description,imperative,"И давай бабушка последнюю, контрольную проверку. "
+description,description,"Нет, не хочет. "
+exclamation,scaffolding,"Всё, ура. "
+description,description,"Всё, хорошо, бабушка довольна."
+description,description,Бабушка довольна. 
+description,description,"Да, довольна бабушка, да."
+backchannel,backchannel,Да!
+backchannel,backchannel,Ага!
+imperative,imperative,"Теперь смотри, что мы с тобой будем делать. "
+question,question,"Мы с тобой сегодня должны быть большие молодцы, понимаешь? "
+backchannel,backchannel,Да. 
+praise,praise,Сегодня мы с тобой большущие молодцы. 
+praise,praise,Большущие-пребольшущие молодцы.
+imperative,imperative,Не-не-не-не-не. 
+imperative,imperative,Сюда же назад и складывай. 
+imperative,imperative,Сюда же назад и складывай.
+praise,praise,Молодец!
+scaffolding,scaffolding,Будь здорова.
+scaffolding,scaffolding,"Ой, господи."
+play,play,"Ой... Бабушка-балабушка, бабушка-балабушка. "
+play,play,Бабушка-бабушка. Бабушка-балабушка. 
+description,description,Ой... Не достаёт бабушка.
+exclamation,exclamation,Оба-на! 
+play,play,О папулечки-папа. 
+imperative,imperative,"Сюда, сюда. "
+imperative,imperative,Это сюда. 
+scaffolding,scaffolding,Так. 
+scaffolding,scaffolding,Так.
+backchannel,backchannel,Да.
+imperative,imperative,"Подожди, подожди, подожди, подожди. "
+question,question,"Это кто разрешил, что так можно?"
+question,question,Где бабушка привезла тут?..
+backchannel,backchannel,Да. 
+imitation,exclamation,Ай-ай-ай-ай.
+imperative,imperative,"Ё, так, всё-всё-всё! "
+description,description,Кончилась вся игра. 
+description,description,Вся игра кончилась. 
+description,description,"Бабушка так и знала, что чем-нибудь подобным, что-нибудь закончится. "
+imperative,imperative,"Смотри, что ты надела. "
+question,question,Видишь? 
+description,syntactic expansion,"Какое ""тэ-тэ"" ты наделала. "
+question,question,"Видишь, видишь, что ты наделала?"
+description,description,Это очень плохо.
+question,question,Видишь?
+description,description,Это будет собирать бабушка сейчас всё. 
+backchannel,backchannel,Да. 
+question,question,Что бабушке делать еще?
+backchannel,backchannel,Да. 
+scaffolding,description,"Был бы фунт изюма, да."
+backchannel,backchannel,Да. 
+question,question,"Знаешь, какой бы был? "
+imperative,imperative,Смотри. 
+question,question,"Видишь, как бабушка делает?"
+question,imperative,"Смотри, видишь, как бабушка делает? "
+backchannel,backchannel,Да.
+description,description,Восемь.
+imperative,imperative,Садись!
+imitation,syntactic expansion,"Да, кар-кар."
+description,description,Пойдем сейчас гулять.
+praise,praise,Девочка мо-ло-дец!
+reading,reading,"Так, пол чайной ложки загасить уксусом."
+scaffolding,scaffolding,Ой. Так.
+description,reading,Еще одно ххх
+semantic expansion,semantic expansion,"Да, упало так вот. "
+semantic expansion,semantic expansion,"Нечаянно, само взяло и упало."
+description,description,Идет дождь ххх
+repair 1,question,Что? 
+question,question,"Что такое, почему?"
+syntactic expansion,iconic,"Да ""кар"", конечно."
+question,question,"И быстренько назад, хорошо? "
+scaffolding,scaffolding,Хорошо?
+description,description,Смотаемся по-быстречку. 
+description,description,"Возьмем пакет, и по-быстречку смотаемся. "
+description,description,"О, бабушке деньги-то надо не забыть."
+scaffolding,scaffolding,"Да, давай."
+imperative,description,Пойдем в магазин вместе.
+description,description,И пойдем в магазин вместе. 
+imperative,imperative,"Да, давай. "
+scaffolding,scaffolding,Вот так.
+imperative,imperative,"Давай руку, давай. "
+imperative,imperative,"Давай руку, бабушка говорит. "
+description,description,"Некогда, у бабушки столько дел. "
+description,description,Ну что совершенно некогда баловаться.
+description,description,У тебя же днюха. 
+description,description,"Ты ещё не знаешь, что такое днюха. "
+description,description,"Поэтому бабушка должна тебе показать, что такое днюха. "
+backchannel,backchannel,Да.
+description,description,В магазин зайдем. 
+backchannel,scaffolding,"Конечно, ххх"
+description,description,Бабушка возьмет ключи. 
+description,description,И возьмет мешочек.
+imperative,imperative,Давай вставай. 
+scaffolding,scaffolding,Ну? 
+imperative,imperative,"Давай, вставай."
+description,description,Ложиться. 
+description,description,Втягивать живот. 
+description,description,"И только на втянутом животе, когда дышать нечем, надо застегать джинсы. "
+backchannel,backchannel,Да. 
+syntactic expansion,syntactic expansion,"Да, это было бы сплошное ""та-та"". "
+backchannel,backchannel,Да. 
+backchannel,backchannel,"Да, ты права."
+description,description,Бабушка берет на руки... 
+description,description,"Да, ключ есть, денежка есть, пакет есть. "
+imperative,imperative,"Пошли, пошли, моя радость, красотуля бабушкина, пошли, по-быстренькому."
+imperative,imperative,"Да, да, нажимай. "
+imperative,imperative,"Нажимай пальчиком, да. "
+scaffolding,scaffolding,Вот так! 
+scaffolding,imperative,"И всё, давай!"
+scaffolding,scaffolding,"Ой, так, вот так. "
+imperative,imperative,"Всё, уже не надо нажимать. "
+description,description,Уже приехали. 
+backchannel,backchannel,Да. 
+imperative,description,Теперь вот сюда нажимаем. 
+imperative,description,Пальчиком так. 
+scaffolding,scaffolding,Вот так. 
+praise,praise,Молодец. 
+description,description,И там.  
+question,question,А где Надечка?
+question,question,Где красавица?
+syntactic expansion,syntactic expansion,Там красавица Надечка!
+imitation,imitation,Там.
+backchannel,backchannel,Да. Да. Да.
+scaffolding,scaffolding,"Вот так, вот так, вот так. "
+scaffolding,scaffolding,"Вот так, вот так. "
+backchannel,scaffolding,Да. 
+description,description,Сейчас откроем дверь.
+description,description,И ключ на место. 
+description,description,А то не попадем до семи часов домой. 
+description,description,Это будет не смешно.
+imperative,imperative,И тут тоже нажимай.
+backchannel,backchannel,Да. 
+question,question,Ты бабушкина сладость? 
+question,question,Ты бабушкина сладость? 
+backchannel,backchannel,Да. 
+description,description,"Да, там тоже дырочки."
+description,description,Тоже там. 
+description,description,Дырочки там тоже. 
+description,description,Там тоже. 
+scaffolding,scaffolding,"Да, вот. "
+description,description,Вот мы куда с тобой пришли. 
+description,description,Вот мы куда с тобой пришли. 
+scaffolding,scaffolding,Так. 
+question,question,"Давай, что нам надо? "
+description,description,Нам нужен один лимон. 
+question,question,"Хороший-прехороший лимон, да?"
+description,description,"Так, мы должны выбрать с тобой хороший-прехороший лимон."
+backchannel,backchannel,Да. 
+description,description,Бабушка сейчас будет выбирать. 
+imperative,imperative,"Давай вот этот, на. "
+imperative,description,Берём.
+description,description,Дальше. 
+description,description,"Дальше мне надо взять варёную cгущенку, она когда-то здесь была. "
+description,description,"Нет, это не мытый. "
+description,description,Зря тётку потревожили. 
+description,description,Это не здесь. 
+scaffolding,scaffolding,Так..
+imperative,description,Берем. 
+scaffolding,scaffolding,Так. 
+question,question,И что нам нужно? 
+description,description,Сметана. 
+imperative,imperative,Пошли.
+scaffolding,scaffolding,"Ой, сори. "
+backchannel,scaffolding,Ага. 
+scaffolding,scaffolding,Вот. 
+scaffolding,scaffolding,Вот. 
+scaffolding,scaffolding,Вот так.
+scaffolding,scaffolding,Вот так вот. 
+imperative,imperative,Тогда сюда идем. 
+imperative,imperative,Пошли.
+imperative,imperative,"Всё, пошли домой. "
+imperative,imperative,Пошли с тобой домой.
+semantic expansion,semantic expansion,Собачка! 
+imitation,imitation,Ав-ав. 
+syntactic expansion,syntactic expansion,Собачка ав-ав.
+description,description,Вот какие мы с тобой... 
+praise,praise,Молодцы! 
+description,description,Как мы быстренько. 
+description,description,"Раз-раз и всё, и мы снова дома. "
+description,description,"И у нас всё есть для того, чтобы делать дальше твой пирог на днюху."
+question,question,"У тебя же скоро днюха, да? "
+description,description,"У тебя скоро днюха, первая в жизни днюха."
+praise,praise,Вот ты сладкий бабушкин!
+backchannel,backchannel,Угу.
+backchannel,backchannel,Угу.
+backchannel,backchannel,Да. 
+imperative,imperative,Нажимай сюда пальчиком. 
+scaffolding,scaffolding,Вот так. 
+praise,praise,Молодец! 
+praise,praise,Молодец! 
+praise,praise,Молодец! 
+praise,praise,Ты моя молодец! 
+backchannel,backchannel,Да. 
+imperative,description,А больше нажимать нельзя. 
+description,description,Там тоже уже нажато. 
+praise,praise,"Ой так да, молодец! "
+description,description,"Всё, приехали. "
+description,description,Мы с тобой приехали. 
+description,description,И вот так все там. 
+imperative,description,"Всем воздушку, всем. "
+imperative,description,"Всем воздушку, да. "
+praise,praise,Бабушкина радость. 
+praise,praise,Ты бабушкина радость. 
+backchannel,backchannel,Да! 
+exclamation,exclamation,Всё! 
+question,question,"Видишь, как мы с тобой? "
+description,description,"Раз-раз, и мы дома."
+imitation,imitation,А-тя.
+imitation,imitation,Те-тя.
+scaffolding,scaffolding,Да? 
+question,question,"А сколько мы всего посмотрели, да? "
+description,description,"И тётя, и дядя. "
+iconic,iconic,"Ав-ав, там была собачка. "
+question,iconic,"Помнишь, там была собачка ав-ав? "
+semantic expansion,iconic,"Да, там была собачка ав-ав. "
+description,description,"И бабушка видела, и ты видела."
+imperative,imperative,Ну не надо плакать.
+description,description,"Бабушка не допустит, чтоб её любимая внучечка плакала. "
+scaffolding,scaffolding,Да?
+scaffolding,scaffolding,Вот так. 
+description,description,Сейчас бабушка тебя разденет. 
+description,description,Накормит. 
+backchannel,backchannel,Да.
+description,description,И спать уложит.
+backchannel,backchannel,Да.
+description,description,Тогда уже бабушка все-все напечет. 
+scaffolding,scaffolding,Хорошо? 
+description,description,Как раз и погодка будет хорошая. 
+description,description,А то какая-то не очень.
+backchannel,backchannel,Да. 
+exclamation,exclamation,Опа-на! 
+scaffolding,scaffolding,Давай.
+exclamation,exclamation,Опа-на!  
+praise,singing,Красотуля бабина опа-ля.
+praise,singing,Красотуля бабина опа-ля. 
+exclamation,exclamation,Ой! 
+play,play,"Ну опа-ля-при-опа-ля, ну прямо."
+play,play,"Ну прямо бабина опаля-приопаля, да. "
+description,description,Вот такая бабина. 
+play,play,"Опаля-приопаля, опа-ля... "
+scaffolding,scaffolding,Давай.
+backchannel,backchannel,Да!
+scaffolding,backchannel,Вот так! 
+description,description,"А тут мы сейчас проветрим, потому что…"
+description,description,Пусть свежий воздушек идет. 
+description,description,"Это то, что мы с тобой купили-прикупили."
+backchannel,backchannel,Да.
+description,description,Вот мы как с тобой. 
+description,description,Сейчас бабушка тебе сделает кашку. 
+play,play,Кашечка-прикашечка.
+play,play,"Сделает тебе бабушка, кашечку-прикашечку, любименькую, прелюбименькую. "
+play,play,"Сделает тебе бабушка кашечку, любименькую, пре-самую-любименькую."
+play,play,Бабушка-балабушка. 
+backchannel,backchannel,Да! 
+play,play,Бабушка-балабушка сделает тебе кашечку. 
+question,question,"Будешь, Надечка, кушать кашечку?"
+description,description,"Я думаю, что будет."
+reading,reading,"Так, там одно яйцо. "
+reading,reading,"Cто грамм сахара, сто грамм сметаны, чайная ложка крахмала…"
+description,description,ххх бабушка.
+description,description,"Да, вот так бабушка мешает. "
+description,description,Мешает-мешает.
+play,play,Бабушка мешает-мешает-мешает-мешает-мешает-мешает-мешает-мешает. 
+singing,singing,Вот так бабушка мешает-размешает.
+singing,singing,Мешает.
+singing,singing,"Мешает, кто мешает-размешает?"
+singing,singing,Размешает-размешает. 
+singing,singing,"И мешает, и мешает."
+singing,singing,Всё мешает бабушка. 
+singing,singing,Бабушка-балабушка.  
+backchannel,backchannel,Да! 
+singing,singing,Всё мешает бабушка. 
+singing,singing,Бабушка-балабушка.  
+singing,singing,Бабушка-балабушка.
+singing,singing,Всё мешает бабушка. 
+singing,singing,Всё мешает бабушка. 
+singing,singing,Бабушка-балабушка.
+singing,singing,Бабушка-балабушка. 
+singing,singing,Бабушка-балабушка. 
+question,question,Что такое? 
+imperative,imperative,"Нет, этого уже нельзя. "
+description,description,Это ты сегодня уже переела. 
+singing,singing,Бабушка-балабушка.
+singing,singing,"Бабушка, бабушка. "
+singing,singing,Бабушка-балабушка.
+singing,singing,"Всё мешает бабушка, бабушка-балабушка. "
+singing,singing,"Бабушка-балабушка, бабушка-балабушка.  "
+singing,singing,"Размешает бабушка, бабушка-балабушка. "
+semantic expansion,semantic expansion,"Да, упало! "
+singing,singing,Всех накормит бабушка. 
+singing,singing,"Бабушка, бабушка, бабушка-балабушка. "
+singing,singing,Размешает бабушка. 
+singing,singing,Всех накормит бабушка. 
+question,play,Где наша Би-гаечка? 
+question,play,Где наша Би-гаечка? 
+question,singing,Где наша Би-гаечка? 
+exclamation,exclamation,"Ой, как надо нюхать! "
+description,description,"Нюхать-принюхать надо, да. "
+description,description,Вот так надо нюхать. 
+exclamation,description,"Ах, вон какой у бабушки цветочек вырос красивый-прекрасивый! "
+description,description,Красивый-прекрасивый цветочек у бабушки вырос. 
+backchannel,backchannel,Да.
+question,question,"Водичкой полить, да? "
+description,description,"И этот маленький тоже, тоже надо водичкой."
+description,description,Его тоже надо водичкой.
+description,description,Вот так бабушка их поит маленько водичкой. 
+question,question,"Видишь, какие они сразу растут большие-пребольшие? "
+description,description,Какие большущие-пребольшущие растут. 
+description,description,"Да, большущие да пребольшущие, да золотые вы мои."
+description,description,"Есть просто вкусно, а есть вкуснятина."
+exclamation,description,"Вот такая вкуснятина, да! "
+description,description,"Да, вот такая ты. "
+description,imperative,"Давай, пока тепленькая, бабушка быстро-быстро... "
+backchannel,backchannel,Да!
+backchannel,backchannel,Да. 
+scaffolding,scaffolding,Ну?
+scaffolding,scaffolding,Давай. 
+exclamation,praise,"Ай, ты шкода! "
+description,description,Рассказала.. 
+description,description,Вот так бегом мы бегали в магазин. 
+scaffolding,scaffolding,"Да, вот так. "
+description,description,"Бегом бежали в магазин, купили, что бабушка забыла. "
+backchannel,backchannel,Да.
+imperative,imperative,Клюй давай кашу.
+imperative,imperative,Ну плюй соску давай. 
+description,description,"Каша-то вкусней, конечно."
+exclamation,exclamation,Ай-яй-яй.  
+question,question,"Где живёт эта шкода, которая не может, чтоб не шкодничать? "
+question,question,Ну где живёт эта шкода?  
+question,question,"Там, где 7А?"
+scaffolding,scaffolding,Да? 
+scaffolding,scaffolding,Да? 
+question,question,"Где вот эта шкода, которая всё должна выгребсти? "
+backchannel,backchannel,Да-да-да. 
+backchannel,backchannel,Да. 
+description,description,"Ещё же и обидели, что вытерли весь этот бардак. "
+backchannel,backchannel,"Да, да. "
+exclamation,imperative,"Ай-яй-яй, надо было... "
+question,question,Как хрюшка делает? 
+question,question,Как хрюшка делает? 
+question,iconic,Хрю-хрю? 
+question,iconic,Хрю-хрю делает хрюшка? 
+question,question,Кто ещё так делает? 
+question,iconic,Хрю-хрю? 
+question,question,Надюшка?
+play,play,Хеп-хеп.
+question,question,Что такое?
+question,question,Ну что такое?
+imperative,description,"Ну это нельзя в ручки брать, только нюхать можно. "
+description,description,"Ну, моя дорогая, от того, что ты будешь плакать…"
+description,description,"Нет, не дам, даже если ты будешь ххх"
+imperative,imperative,"Давай ты лучше постучишь, давай, постучишь, давай ты постучишь, постучи."
+praise,praise,Молодец. 
+description,description,"Сейчас я, сейчас я постучу. "
+imperative,imperative,Смотри.
+play,play,"Трам-пара-рам, пара-рам-пам-пам. "
+question,question,Надечка постучит? 
+question,question,"Да, Надечка?"
+play,play,"Трам-бам-бам, бам-бам-бам. "
+play,play,Бам-бам-бам. 
+description,description,"Да, да, вот это можно размазывать даже.  "
+backchannel,backchannel,Да.
+question,question,Не хотим больше кашку? 
+question,question,"Хочешь на ручки, а кашку? "
+description,description,"Не хотим, понятно."
+backchannel,backchannel,Понятно. 
+imperative,imperative,"Стой, бабушка вытрет сейчас тебя."
+description,description,"Сейчас, бабушка кого-то вытрет. "
+description,description,"Будет девочка чистая - пречистая, пречистая - пречистая девочка будет."
+question,question,Кто девочка будет чистая - пречистая? 
+question,question,Кто? 
+question,question,Кто девочка будет чистая? 
+backchannel,backchannel,Да. 
+description,description,"Вот, обидели ребёночка, да, прямо вытирают. "
+exclamation,exclamation,"Ай, безобразие!"
+description,description,"Надо было, чтобы ребёночек был грязный-прегрязный. "
+description,description,А его берут и вытирают. 
+exclamation,exclamation,"Ой, такие нехорошие!"
+description,description,"Да, такие нехорошие. "
+description,description,Взяли и вытирали грязного ребёночка.
+praise,praise,"Ой, моя сладкая. "
+question,praise,Кто мой сладкий-пресладкий ребёнок?  
+question,praise,Кто мой сладкий-пресладкий ребёнок? 
+question,question,Кто?
+question,praise,Кто мой ребёнок сладкий? 
+praise,praise,Пресладкий. 
+question,question,Кто? 
+question,praise,Кто сладкий? 
+praise,praise,Пресладкий. 
+question,question,Кто?
+question,question,Кто там плачет? 
+exclamation,description,Бабушка же здесь!
+description,description,Бабушка же здесь. 
+question,question,Ну кто там плачет? 
+question,question,Кто? 
+question,question,Кто плачет?
+question,question,Это ты плачешь? 
+question,question,"Ты плачешь, когда бабушка дома есть, а ты плачешь? "
+exclamation,exclamation,Ай-ай-ай.
+praise,praise,"Сладкий бабушкин, вот такой сладкий."
+backchannel,backchannel,Да!
+description,description,Раз. Два. Три. Четыре. 
+description,description,Раз. Два. 
+description,description,Еще должно быть. 
+question,question,"Еще должно быть много, где они делись?"
+question,question,Где еще соски?
+question,question,Где все делись?
+imitation,imitation,"Кар, кар. "
+semantic expansion,semantic expansion,Там птички.
+question,question,Кто обидел девочку? 
+question,question,Кто маленького моего обидел? 
+imperative,imperative,Расскажи быстро бабушке. 
+backchannel,backchannel,Да. 
+question,question,Кто там?  
+question,question,Что там такое?   
+question,question,"Кто так не нравится, что-то, что? "
+question,question,Что не нравится?  
+imperative,imperative,"Скажи бабушке, что не нравится.  "
+description,description,Бабушка сразу всё поменяет.  
+question,question,Вот там что-то?  
+question,question,Ну что там? 
+question,question,"А, ещё не знаешь?  "
+description,description,"Так просто, пройтись, по Дерибасовской. "
+description,description,Пройтись. 
+description,description,По Дерибасовской. 
+backchannel,backchannel,"Да, я тебя понимаю.  "
+backchannel,backchannel,"Да, я тебе очень понимаю.  "
+description,description,"Ну, совсем другое дело. "
+description,description,"То, что бабушка и хотела. "
+question,question,А что бабушка хотела? 
+description,description,"Бабушка хотела вкусненькую, вкусненькую, вкуснятинку дать Надюшечке. "
+scaffolding,question,"Да, Надюшечка? "
+scaffolding,scaffolding,Да? 
+question,question,Надюшечка хочет вкуснятинку-превкуснятинку? 
+description,description,"Я думаю, что хочет. "
+description,description,"Я думаю, что Надюшечка хочет вкуснятинку-превкуснятинку. "
+imperative,imperative,Не-не-не-не.  
+imperative,imperative,Не-не-не-не.
+scaffolding,scaffolding,Вот так. 
+exclamation,exclamation,Ой.
+imperative,imperative,Еще маленько.
+question,question,Ну что же это такое делается? 
+description,description,Прямо бунт на макаронной фабрике.
+imperative,imperative,Еще маленько.
+praise,praise,Молодец! 
+praise,praise,Вот какой ты молодец. 
+imperative,imperative,Давай еще маленько. 
+praise,praise,Вот какой ты молодец.
+praise,praise,Молодец-премолодцовый.
+imitation,imitation,А! 
+imperative,imperative,Еще маленько. 
+imperative,imperative,Ну еще маленечко.
+imitation,imitation,А-а. 
+praise,praise,Молодец. 
+question,question,Ну ещё совсем капелюшечку?  
+imperative,imperative,"Ну капелюшечку, смотри! "
+imperative,iconic,"Ну маленько, один раз так - чмоки, чмоки. "
+description,description,И всё.
+praise,praise,Сладость бабушкина!
+praise,praise,Сладость бабушкина любимая.
+syntactic expansion,syntactic expansion,"Кар там, да. "
+syntactic expansion,syntactic expansion,А как же без кар? 
+imperative,imperative,"Давай попьем маленечко, да. "
+imperative,imperative,Маленечко надо попить.
+description,description,Сейчас бабушка проверит. 
+question,question,"А ну, не покакаль-ка? "
+description,description,"Ой, что-то есть такое, пахнет понемножку. "
+imperative,imperative,Давай-ка проверим. 
+imperative,imperative,Давай-ка маленечко проверим. 
+question,question,Не покакаль-ка ли мой ребёнок там во сне? 
+question,question,Не покакаль-ка ли? 
+backchannel,backchannel,Да. 
+imitation,imitation,Кар. 
+imitation,iconic,Кар! 
+syntactic expansion,syntactic expansion,Как же без кар? 
+syntactic expansion,syntactic expansion,Ну как же без кар?  
+question,question,"А ну, есть там они? "
+description,description,Маленько сидят. 
+description,description,"Нет, все улетели. "
+scaffolding,scaffolding,Давай! 
+description,description,Мы с тобой маленько переоденемся. 
+scaffolding,imperative,"Давай, моя сладкая. "
+description,description,Маленечко переоденемся. 
+description,description,"Проверим, что-то бабушке какой-то запашок маленько не понравился."
+description,description,"Ну не, бабушка, конечно, может ошибаться. "
+description,description,Бабушка запросто может ошибаться. 
+exclamation,description,"Да, бабушка такая она! "
+backchannel,backchannel,Да. 
+imperative,imperative,Полежи маленечко-то. 
+backchannel,backchannel,Да. 
+description,description,"А бабушка проверит, ошибается она или не ошибается. "
+description,description,"Маленечко только бабушка проверит, и все. "
+question,question,"Да, что там, долго, что-ли? "
+description,description,Бабушка проверит и все. 
+description,description,Потому что попахивает чем-то. 
+description,description,Ой попахивает. 
+description,imperative,Давай подвинем тебя маленечко вот так вот здесь. 
+description,description,"Потому что, чтоб бабушке было тут где разгуляй устроить, да-а-а-а."
+description,description,"Чует бабушка, что кто-то покакулькал во сне. "
+exclamation,exclamation,"Ой, кто-то покакулькал! "
+exclamation,exclamation,"Ой, кто-то покакулькал! "
+exclamation,description,Да так сильно! 
+description,description,"Как говорит твой папа и мама, a lot. "
+exclamation,exclamation,Ой! 
+imperative,imperative,Не снимай ручки! 
+imperative,imperative,Лежи и не шевелись. 
+imperative,imperative,"Не шевелись, потому что там даже трусов не бывает. "
+description,description,Где лежат сейчас какашки. 
+description,description,Там даже вообще не бывает трусов. 
+exclamation,description,"Боже, бабушка уже вся в какашках!"
+play,description,Бабушка вся в какашках-прекакашках. 
+play,description,Надечка вся в какашках-прекакашках. 
+description,description,"Ещё говорят, что бананы крепят. "
+question,question,Да где же они крепят? 
+question,question,Где же это крепление? 
+description,description,Не видит бабушка никакого крепления. 
+imperative,imperative,"Подожди-подожди, солнце! "
+imperative,imperative,"Бабушка, ну подожди, бабушка хоть соберёт большие какашки. "
+description,description,"Ну, конечно, я понимаю, что, наверное, это...  "
+description,description,"Но зато видишь, как мы вовремя. "
+description,description,Даже нигде ничего.. 
+description,description,"Да, нигде ничего не щипало, потому что.."
+backchannel,backchannel,"Да, да. "
+exclamation,description,Бабушка всё попротирает! 
+backchannel,backchannel,Да. 
+description,description,Будет такая моя внучечка чистенькая…
+backchannel,backchannel,Да-а-а! 
+play,description,Такая чистюха-пречистюха будет! 
+backchannel,backchannel,Да-а-а! 
+play,description,Самая честюхная честюха на свете!  
+backchannel,backchannel,Да. Да.
+praise,description,Самая-пресамая крупная пречистюха!
+backchannel,backchannel,Да.
+scaffolding,scaffolding,Вот так. 
+scaffolding,scaffolding,Вот так.
+imitation,imitation,А-ха-ха-а-а. А-ха-ха-а-а. А-ха-ха-а-а. 
+play,play,А ну-ка ты давай! Попробуй отгадай. 
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам. А ну давай..  "
+backchannel,backchannel,Да.
+imperative,imperative,"Тихонечко, бабушке курочку надо протереть. "
+imperative,imperative,Тихонечко.. 
+play,play,А ну-ка ты давай! Попробуй отгадай.   
+praise,praise,Молодец!
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам.  "
+iconic,iconic,"Бе-бе, бе-бе-беее. Бе-бе, бе-бе-беее. Бе-бе, бе-бе-беее. Бе-бе, бе-бе-беее. Бе-бе, бе-бе-беее. Бе-бе, бе-бе-беее.  "
+backchannel,backchannel,Правильно! 
+iconic,iconic,"Беее, это барашка приехала к нам!  "
+backchannel,backchannel,Правильно! 
+exclamation,description,Барашка!  
+play,play,"А ну-ка ты давай!  Малыш, скорее угадай. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам.  "
+iconic,iconic,"Му-му, му-му, му-му, му-му, му-му!  Му-му, му-му.. "
+question,question,Кто это?  
+question,iconic,И когда му-му? 
+question,question,Это кто? 
+question,question,Что такое?  
+iconic,iconic,"Му-му, му-му, му-му.  Му-му, му-му.  "
+exclamation,description,Корова! 
+description,description,"Правильно, корова. "
+question,question,Как корова говорит?  
+iconic,iconic,"Му-му, му-му, му-му, му-му, му-му, му-му, му-му, му-му.  "
+backchannel,backchannel,Правильно!   
+exclamation,description,Корова!
+play,play,А ну-ка ты малыш давай скорее угадай.  
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам. "
+iconic,iconic,"Гав, гав, гав, гав...  Гав, гав, гав, гав... Ав, ав, ав, ав, ав. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам.  "
+imperative,imperative,"На, на, на.  "
+play,play,"А ну-ка ты давай, скорее угадай. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам!  "
+iconic,iconic,Мяу-мяу-мяу-мяу-мяу.  
+semantic expansion,semantic expansion,"Ой, кошечка! "
+backchannel,backchannel,Правильно. 
+semantic expansion,description,Кошечка едет к нам. 
+imitation,iconic,Мяу-мяу.  
+play,imperative,"А ну-ка ты давай, скорее угадай.  "
+backchannel,backchannel,Правильно. 
+syntactic expansion,syntactic expansion,Кошечка едет к Кар-кар! 
+semantic expansion,semantic expansion,Ворона. 
+description,description,"Бабушка и хотела сейчас спеть, точно хотела.  "
+description,description,"Честное слово, про ворону хотела спеть. "
+praise,praise,Ты моя умничка.  
+play,play,"А ну-ка ты давай, скорее угадай.  "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам. "
+question,question,Кто?  
+question,question,Кто к нам в гости едет? 
+imperative,imperative,А ну-ка ты!  
+iconic,iconic,Кря-кря-кря-кря-кря. Кря-кря-кря-кря-кря. Кря-кря-кря-кря-кря. 
+backchannel,backchannel,Правильно! 
+description,description,Утки едут в гости к нам. 
+praise,praise,Молодец!  
+iconic,iconic,Кряк-кряк-кряк-кряк.  Кряк-кряк-кряк-кряк.   Кряк-кряк-кряк-кряк.  Кряк-кряк-кряк-кряк. 
+play,play,"А ну-ка, малыш, давай, скорее угадай.  "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам.  "
+play,play,"Кто же, кто же, кто же, кто же в гости едет к нам? "
+iconic,iconic,Ку-ку-кари-ку. Ку-ку-кари-ку.  
+backchannel,backchannel,Да! 
+iconic,iconic,"Ку-ка-ри-ку, ку-ка-ри-ку.  "
+play,play,"Кто зе, кто зе, ну кто же в гости едет к нам?  "
+iconic,iconic,"Ку-ка-ри-ку, ку.. "
+exclamation,imperative,Ну что ты вытаскиваешь! 
+description,description,Туалетную бумагу.  
+description,description,Это же нужная хорошая бумага. 
+description,description,"Вытираться надо, да.  "
+imperative,imperative,"Давай бабушка и ручки тебе сразу протрет, давай.  "
+praise,praise,Вот молодец. 
+exclamation,exclamation,О-о! 
+description,description,Какая. 
+description,description,"Я ж по-честному говорю, какая ты.  "
+description,description,"И бабушка себе протрет, и внучка, да.  "
+description,description,Вот такие у нас...  
+backchannel,backchannel,"Да, да, да. "
+description,description,У нас с тобой чистые-пречистые.  
+scaffolding,scaffolding,Давай. 
+praise,imperative,Давай мамина и бабушкина заинька.  
+imperative,imperative,"Стой, тут сейчас бабушка соберет. "
+description,description,Какашечки все пособираю. 
+question,question,Кто такой? 
+imperative,imperative,Давай ручки. 
+exclamation,praise,Ай ты сладкий мой! 
+praise,praise,"Золотулька, золотой.   "
+play,praise,"Золотулька, золотулька. Это вам не пиндербулька. "
+play,description,Это вам не пиндербуль.. 
+play,praise,Потому что  вот такой вот маладоц.   
+play,praise,"Маладоцка, маладоцка. "
+praise,praise,Это наша принцесса Надюшка.  
+description,description,"Вот такая у бабушки гиляцкая песенка есть, да. "
+description,description,Гиляцкая-прегиляцкая песенка.
+description,description,У бабушки. 
+backchannel,backchannel,Да.
+play,exclamation,Ха-ха-ха.  
+play,praise,"Эй, купился молодец! "
+play,play,Потому что малый огурец.  
+play,play,"Потому что малый-малый, абсолютно малый,  совершенно малый, сладкий огурец.  "
+play,iconic,"Ай, цём-цём. "
+description,description,Тебе тоже.  
+description,description,"И тебе, тоже, тоже да."
+play,play,"А ну-ка, ты давай! "
+imperative,imperative,"Да, пошли! "
+play,play,Скорее угадай! 
+play,play,"Кто зе, кто зе, да, кто зе, кто зе в гости едет к нам. "
+play,play,"А ну-ка, ты давай! Скорее угадай! "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам.  "
+play,play,"Ну-ка ты давай, скорее угадай. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет нам. Ой, в гости едет нам. "
+play,play,"А ну-ка ты давай, скорее угадай. Кто зе, кто зе, кто зе, кто зе в гости едет нам. "
+description,description,"Бабушка сейчас всё распишет, сколько там время, сейчас всё напишет.  "
+description,description,"Всё напишет, всё напишет."
+description,description,Всё напишет бабушка.
+description,description,"Все напишет, всё напишет. "
+description,description,Всё напишет бабушка. 
+description,description,Бабушка напишет.
+description,description,И закроет дверку. 
+description,description,"Сейчас закроет бабушка, дверку-то закроет. "
+play,description,"Вот такая бабушка, бабушка-балабушка."
+description,description,Сейчас накормит внучечку бабушка-балабушка.
+play,description,Бабушка-балабушка.
+description,description,Сейчас накормит внучечку. 
+description,description,Внучечка-внучечка. 
+praise,praise,"Внучечка-внучечка, внучечка-красавица, внучечка-красавица, ты моя голубочка. "
+praise,praise,"Ты моя голубочка, внучечка-красавичка, внучечка-внучечка, бабина красавичка, вот такая внучечка, бабушкина голубочка. "
+praise,praise,"Вот такая внучечка, бабушкина красавица. "
+description,description,Вот такая девочка... 
+backchannel,backchannel,Да. 
+description,description,"Да, вот тут бабушка выпачкалась, да. "
+description,description,"Да, бабушка тут выпачкалась. "
+description,description,"А бабушка сегодня еще и сожглась, у бабушки вава. "
+description,description,"Так бабушка сожглась сегодня, да. "
+imperative,imperative,"Ну голуба, кушать надо."
+scaffolding,imperative,"Давай, давай. "
+imperative,imperative,"Давай, рискнём, держи. "
+imperative,imperative,"Держи, давай."
+scaffolding,scaffolding,Давай. 
+imperative,imperative,"Давай, берём."
+question,question,Ну что ты? 
+imperative,imperative,Ну бери! 
+scaffolding,scaffolding,Ну?
+imperative,imperative,"Давай, в рот. "
+imperative,imperative,И в рот.
+imperative,description,"Ну, в рот, это ж надо кушать. "
+description,description,"Ну, Надечка, ну ты хочешь играться, а бабушка показывает тебе, как надо делать. "
+description,description,"Ну, и не буду больше тебе показывать тогда. "
+description,description,"Нет, не буду показывать."
+description,description,Всё раскойдохала. 
+description,description,Такую грязь развела. 
+description,description,"Весь пол, всю себя. "
+imperative,imperative,Посмотри на кого ты похожа! 
+imperative,imperative,Посмотри на кого ты похожа!  
+exclamation,exclamation,Ай-яй-яй-яй-яй-яй-яй! 
+description,description,"Бабушка грела, готовилась, чтоб Надечка-Принадечка была сытая. "
+imperative,imperative,"Смотри, что Надечка сделала. "
+question,question,"Уборки сейчас на полчаса, да?  "
+backchannel,backchannel,Да. 
+exclamation,exclamation,Ай-яй-яй-яй-яй.  
+description,description,ххх девочка.
+exclamation,description,Позорище!
+imperative,imperative,Ну всё-всё-всё. 
+description,description,"Бабушка любит Надечку, любит. "
+scaffolding,scaffolding,Давай... 
+description,description,ххх всё. 
+description,description,"Нет, это теперь уже тебе не надо. "
+imperative,imperative,"Смотри, сколько.. "
+imperative,imperative,"Вот крышку, если хочешь, бери. "
+scaffolding,imperative,Давай. Давай.
+exclamation,description,Ах как вкусно!
+exclamation,description,Ах как вкусно!
+exclamation,description,Ах как вкусно! 
+exclamation,exclamation,Эй! 
+exclamation,exclamation,Ах! 
+exclamation,description,Бабушка! 
+exclamation,description,"Да, бабушка! "
+exclamation,exclamation,Еее! 
+exclamation,exclamation,Ах! 
+exclamation,description,Как вкусно! 
+question,question,Что там? 
+description,description,Там скоро пирог у нас с тобой будет. 
+backchannel,backchannel,Да-а-а! 
+description,description,В честь твоей днюхи.
+description,description,Первой на земле днюхи.
+backchannel,backchannel,Да. 
+description,description,"Вот так, вот так закрыть надо."
+description,description,"Да, бабушка всё даст. "
+imperative,imperative,Только сначала покушай.
+backchannel,backchannel,Да. 
+question,question,А кто такой расстроенный? 
+question,question,А кто расстроенный? 
+description,description,"Главное, было бы причина расстройства. "
+imperative,imperative,"Скажи бабушке хоть одну причину своего расстройства, да. "
+imperative,imperative,Хоть одну. 
+imperative,imperative,"Хоть одну-однушеньку, самую.. "
+description,description,"Нет, ни одной причины. "
+scaffolding,scaffolding,Да? 
+description,description,"Я тоже говорю, нема причины. "
+description,description,Нету. 
+description,imperative,"Все, давай, пусть остывает. "
+description,description,"Бабушка сейчас при тебе все равно не может ничего делать, да.  "
+question,question,Что же бабушка может сделать ххх?
+imitation,imitation,"Та, та, та, та. Та, та, та, та. Та, та, та, та. Та, та, та, та. Та, та, та, та."
+imitation,imitation,"Да, бам!"
+imitation,imitation,Бам-бам-бам.
+imitation,syntactic expansion,"Да, бам-бам-бам, бам."
+play,iconic,"Бамбушечки, бам-бам."
+play,iconic,Сладкие бамбушечки...
+backchannel,backchannel,Да.
+imitation,imitation,Ба-бах!
+description,semantic expansion ,"Да, там на потолке. "
+imitation,iconic,Ба-бах! 
+description,description,На потолке. 
+imitation,iconic,Ба-бах! 
+play,play,Бусечки-бусечки. Сладкие бабусечки. 
+play,play,Сладкие-пресладкие. 
+play,play,"Золотые бусечки. Бусечки, бусечки."
+imitation,syntactic expansion,"Да, кря! "
+imitation,iconic,Кря. Кря-кря-кря.
+praise,praise,Ты золотой бабушкин! 
+backchannel,backchannel,Да-а-а.  
+imperative,imperative,"Смотри, что сейчас бабушка твоя делать будет. "
+imperative,imperative,"Ты только посмотри, что твоя бабушка сейчас будет делать! "
+imperative,imperative,"Давай будешь смотреть, давай.  "
+description,imperative,"Будешь смотреть, а то неинтересно.  "
+backchannel,backchannel,Да. 
+description,imperative,Будешь смотреть.  
+description,description,"Потому что это очень, да.  "
+backchannel,backchannel,Да. 
+description,description,"Можно и нюхать тоже, все можно. "
+imperative,imperative,Поехали! 
+scaffolding,scaffolding,Вот так-так-так. 
+imperative,imperative,"Вот так, смотри."
+question,question,Что такое? 
+question,question,Ну что такое?
+scaffolding,scaffolding,Так.
+imitation,description,"Ааа, как всё ххх."
+backchannel,backchannel,Дааа.
+description,backchannel,"Вот так, да, всё замечательно."
+scaffolding,backchannel,Вот так всё.
+scaffolding,praise,"Вот так, сладкий мой!"
+semantic expansion,description,"Мама, там где-то уже наверное приехала..."
+semantic expansion,description,"Полчаса, что ли, мама говорила."
+question,question,"Ты не помнишь, сколько мама говорила?"
+question,question,"Ты помнишь, сколько мама говорила ехать? "
+question,question,Не помнишь?
+question,question,А что такое? 
+question,question,Мне что не нравится? 
+imperative,imperative,Скажи бабушке.
+description,description,"""Я плохо себя чувствую. """
+description,description,"""Вот что мне не нравится."""
+imperative,imperative,"Сюда складывай, сюда. "
+imperative,imperative,"Нельзя вытаскивать, нельзя. "
+imperative,imperative,Нужно вытаскивать и складывать сразу.
+imperative,imperative,Сюда же и складывать.
+play,description,Бабушка забацала.
+description,description,А вон-вон-вон. 
+imperative,imperative,Давай поднимем. 
+scaffolding,imperative,Давай-давай-давай.
+praise,praise,"Девочка-умница, бабина разумница. "
+scaffolding,scaffolding,Давай. 
+description,description,Навести порядок после первого ххх
+backchannel,backchannel,"Да-а-а, моя сладкая."
+backchannel,backchannel,Да. 
+description,description,Вот как мы хорошо тут убрались - приубрались.
+play,description,Убрались - приубрались.
+repair ,repair,Мама? 
+semantic expansion,description,Мама твоя там где-то…
+imitation,play,А-та-та-та.
+imitation,play,Та-та-та-та-та.
+semantic expansion,description,Мама твоя там где-то едет.
+description,imperative,Давай бабушка сейчас погреет и даст тебе.
+backchannel,backchannel,Да!
+imperative,imperative,Подожди. 
+description,imperative,"Пока, значит, мы это давай с тобой сюда поставим."
+question,question,Где что тут у бабушки грязное?..
+backchannel,backchannel,Да!
+imitation,exclamation,Ой-ой-ой-ой-ой!
+imitation,exclamation,Ой-ой-ой-ой!
+imitation,exclamation,Ой!
+imitation,exclamation,Ой!
+imitation,exclamation,Ой!
+imitation,exclamation,Ой!
+imitation,exclamation,Ой!
+question,question,"Совсем нефиг делать, да?"
+play,play,"А ну-ка ты давай, скорее угадай."
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам? А ну-ка ты давай..."
+play,play,"Ну кто зе, кто зе, кто зе, кто зе в гости едет к нам? "
+play,play,А ну-ка ты давай… Скорее угадай. 
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам?"
+play,play,"А ну-ка ты давай, скорее угадай. "
+play,play,"Ну кто зе, кто зе, кто зе, кто зе в гости едет к нам? "
+backchannel,backchannel,Да! 
+play,play,"Ну кто зе, кто зе, кто зе, кто зе в гости едет к нам? "
+play,play,"А ну-ка ты давай, скорее угадай. "
+play,play,"Ну кто зе, кто зе, кто зе, кто зе в гости едет к нам? "
+question,question,Что такое?!
+question,question,Тебе не видно? 
+imperative,imperative,"Давай, иди сюда."
+scaffolding,scaffolding,От так!
+imperative,imperative,Вставай на ножки и будешь видеть. 
+imperative,imperative,Вставай. 
+praise,praise,Вот молодец. 
+question,question,Видишь? 
+description,description,Это бабушка моет.
+imperative,imperative,"Да, бери, можно, можно. "
+description,description,"Можно бабушке помогать, да. "
+scaffolding,scaffolding,Вот так.
+description,description,"Да, бабушке помогать можно. "
+description,backchannel,"Да, можно."
+description,description,"Можно бабушке помогать таким хорошим девочкам, как ты. "
+description,backchannel,"Можно, да. "
+praise,praise,"Девочка хорошая, девочка прекрасная. "
+praise,praise,"Самая разумная, самая прекрасная. "
+description,description,"Это уже помыли там, и все."
+scaffolding,scaffolding,"Вот так, да. "
+description,backchannel,"Можно, можно, можно, можно. "
+question,question,Ну и где наше полотенце делось?
+description,description,"Так, бабушка тут сейчас выключит, потому что.."
+description,description,Тебе будет сейчас кашка.
+exclamation,exclamation,О!
+description,description,Вроде маленько.. 
+scaffolding,scaffolding,А ну?
+imperative,imperative,"А ну, давай. "
+exclamation,description,Вот так замечательно!
+exclamation,description,Ой как замечательно. 
+backchannel,backchannel,Да!
+exclamation,description,Вот как замечательно!
+backchannel,backchannel,Да. 
+praise,praise,Вот бабушкина умничка. 
+praise,praise,"Умничка, умничка. Бабина разумничка. "
+praise,praise,Бабина разумничка. Это моя умничка. 
+praise,praise,"Умничка, умничка. "
+scaffolding,imperative,"Да, давай. "
+imperative,imperative,"Подожди, подожди. "
+praise,praise,"Вот так, бабина разумничка."
+praise,praise,"Бабина разумничка, это Надя умничка. "
+praise,praise,"Умничка, умничка.."
+imperative ,imperative,Ну давай еще ложечку. 
+imperative,imperative,"Ну, ложечку. "
+scaffolding,scaffolding,"Вот, спасибо! "
+praise,praise,"Умничка, умничка, бабина разумничка."
+praise,praise,"Бабина разумничка, это Надя умничка."
+praise,praise,"Просто молодец, молодцовая молодец!"
+question,question,А что такое? 
+question,question,Кто расстроился? 
+question,question,А кто расстроенный? 
+description,description,"Главное, бабушка хочет узнать, из-за чего мой ребёночек любименький расстроился. "
+question,question,Из-за чего? 
+description,description,Бабушка очень хочет узнать.
+description,description,"Очень-очень бабушка хочет узнать, из-за чего её внучка, любимая - прелюбимая, обожаемая - преобожаемая, из-за чего она так расстроилась. "
+scaffolding,scaffolding,Да?
+question,question,За что она так расстроилась?
+question,question,"Внучка любимая - прелюбимая, обожаемая - преобожаемая внучка, за что ты так расстроилась?"
+imitation,imitation,Ба-ба-ба. 
+play,play,"А ну-ка ты давай, попробуй угадай. "
+play,play,"Кто зе, кто зе, кто зе, кто зе в гости едет к нам? "
+question,imperative,"Давай водички попьем, давай? "
+praise,praise,"Ай, умная девочка, хорошая, дааа."
+backchannel,backchannel,"Да, да, да, да."
+imitation,exclamation,Ай-ай-ай-ай.
+imitation,exclamation,Ай-ай-ай-ай.
+question,question,"Ай, карябает кто бабушку? "
+question,question,"Кто карябает бабушку, кто карябает, кто? "
+question,question,"Ну кто, ну что хнычем? "
+question,question,"Ну скажи бабушке, ну что хнычем?"
+description,description,"Кашу не хотим, мясо не хотим, ну ничего не хотим. "
+imperative,scaffolding,Давай. 
+praise,praise,"Вот моя сладкая, умничка. "
+description,description,"Маленько кашки, маленько мяска. "
+praise,praise,"О, молодец, девочка."
+play,praise,"Да, моя девочка, да, моя хорошая припевочка. "
+play,praise,"Девочка - девочка, хорошая припевочка, сладкая припевочка. "
+scaffolding,scaffolding,"Вот так, вот так."
+imperative,imperative,"Да, давай, смотри, что бабушка делает, смотри. "
+play,exclamation,Оп-па-на!
+scaffolding,description,"Да, вот так - раз."
+backchannel,backchannel,Да. 
+description,description,"Вот так бабушка, все берет, берет, берет…"
+backchannel,backchannel,Да! 
+description,description,"Вот это бабушка берет для того, чтобы все твои, да, промыть."
+description,description,"Мама чтоб была довольная, да. "
+description,description,"Мама приедет уставшая - преуставшая, да."
+backchannel,backchannel,Да. 
+description,description,Довольная - предовольная.
+description,description,"И еще поставили, да. "
+exclamation,description,"И эту, и эту, и эту, и эту! "
+exclamation,praise,"Вот какие мы молодцы, видишь, сколько мы уже поставили! "
+praise,praise,Умницы - красавицы! 
+praise,praise,Мы просто умницы - красавицы. 
+backchannel,backchannel,Да-а! 
+praise,praise,"Вот такие мы с тобой умницы и красавицы, да... "
+description,praise,"Да, потому что все просто умницы и красавицы, а мы с тобой умницы и... "
+exclamation,exclamation,Ой-ой-ой!  
+exclamation,exclamation,Ой-ой-ой!
+play,play,"А ну-ка ты давай, попробуй угадай. "
+play,play,"Кто зе, кто зе, кто зе, кто зе, в гости едет к нам."
+play,play,"Кто зе, кто зе, кто зе, кто зе... "
+imperative,imperative,"Любимочка бабушкина, подожди. "
+description,imperative,Давай бабушка хоть маленечко-маленечко. 
+description,description,Наведет порядок. 
+description,description,Ну хоть совсем чуть-чуть.
+description,description,"Ну, хоть совсем чуть-чуть уберет."
+question,question,"Ну, хоть совсем чуть-чуть, да? "
+question,question,"Нет, нет?"
+question,question,"Нет, нельзя бабушке убирать? "
+question,question,Нет? 
+description,description,"Будет грязь, бардак. "
+description,description,"Приедет мама, а у нас бардак - пребардак. "
+description,description,"Мама скажет: что же вы, мои любимые, прелюбимые девочки, такой бардак мне сделали. "
+description,description,"А мы будем говорить: ой, прости нас, мамочка, мы хотели хорошо сделать, а сделали плохо. "
+imperative,description,"Прости - прости - прости нас, мамочка. "
+play,description,"Мамочка, мамочка-балабочка, ты нас, пожалуйста, прости - прости - прости...  "
+exclamation,description,"Ну что такое, ну воды я набираю, вскипятить, чайник вскипятить! "
+question,question,Ну что? 
+imperative,imperative,"Бабушка, смотри, бабушка берёт водичку набирает, набирает, набирает, набирает водичку. "
+question,question,Видишь? 
+description,description,Чтоб бабушка чай вскипятила. 
+question,question,"Ну что ж мы так капризничаем-то целый день, а? "
+question,question,Ну что ж мы так целый-то день капризничаем? 
+description,description,"Бабушка же ничего, ничего, ничего не может делать. "
+description,description,Ну ничего-ничего бабушка не может делать. 
+scaffolding,scaffolding,Ну что.. 
+praise,praise,"Мой ребенок золотой, сладкий бабушкин родной."
+praise,praise,Сладкий-сладкий бабушкин. 
+praise,praise,Бабушкин родной. 
+description,description,"Бабушкин, бабушкин. "
+description,description,Вот только на руках у бабушки не плачем. 
+description,description,Но бабушка не может так долго носить на руках. 
+scaffolding,scaffolding,Да? 
+description,description,Вот такая бабушка.
+imitation,syntactic expansion,"Да, ахх, ахх. "
+description,description,Вот так нужно нюхать. 
+description,description,Но нужно еще и умываться после еды. 
+scaffolding,scaffolding,Да? 
