@@ -1,1 +1,1 @@
-# Turn-Taking Predicts Vocabulary Acquisition at 18 Months: A Study of Daylong Recordings by Liudmyla Feurstein, Reinhard Furrer, and Sabine Stoll. Supplementary Materials (datasets, transcriptions, R and Python scripts).
+Turn-Taking Predicts Vocabulary Acquisition at 18 Months: A Study of Daylong Recordings by Liudmyla Feurstein, Reinhard Furrer, and Sabine Stoll. Supplementary Materials (datasets, transcriptions, R and Python scripts).
